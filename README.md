@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2afa5f58-58a2-4fed-9cb8-ff33e0cbd240)
+
+
 ## License
 
 Shakal PDF Compressor is licensed under the **GNU Affero General Public License (AGPL) v3.0**.
